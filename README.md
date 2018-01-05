@@ -11,7 +11,7 @@ Eclipse Oxygen
 Run the following command to check out a local copy of the code.
 
 ```shell
-git clone https://github.com/angularjs-in-action/angello-lite.git
+git clone https://github.com/shinsh2/SpringBootCRUDApplicationExample.git
 ```
 
 
